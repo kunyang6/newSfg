@@ -4,7 +4,7 @@
 
     <groupId>guru.framework</groupId>
     <artifactId>sfg-pet-clinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <modules>
         <module>pet-clinic-data</module>
         <module>pet-clinic-web</module>
@@ -47,6 +47,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:git@github.com:kunyang6/newSfg.git</developerConnection>
-    </scm>
+      <tag>sfg-pet-clinic-0.0.2</tag>
+  </scm>
 
 </project>
